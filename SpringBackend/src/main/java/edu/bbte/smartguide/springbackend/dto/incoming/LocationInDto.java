@@ -1,6 +1,6 @@
 package edu.bbte.smartguide.springbackend.dto.incoming;
 
-import jakarta.validation.constraints.NotNull;
+import javax.validation.constraints.NotNull;
 import lombok.Data;
 import lombok.NonNull;
 

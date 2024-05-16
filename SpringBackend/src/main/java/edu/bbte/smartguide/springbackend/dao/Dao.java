@@ -7,7 +7,7 @@ import java.util.Collection;
 public interface Dao<T extends BaseEntity> {
     T getById(Long id);
 
-    T saveAndFlush(T entity);
+//    T saveAndFlush(T entity);
 
     void deleteById(Long id);
 

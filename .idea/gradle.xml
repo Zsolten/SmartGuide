@@ -9,7 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/nzim2062-backend" />
+            <option value="$PROJECT_DIR$/nzim2062-desktop" />
+            <option value="$PROJECT_DIR$/nzim2062-spring" />
+            <option value="$PROJECT_DIR$/nzim2062-web" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

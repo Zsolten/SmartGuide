@@ -1,6 +1,5 @@
 package edu.bbte.smartguide.springbackend.dto.outgoing;
 
-import jakarta.validation.constraints.NotNull;
 import lombok.Data;
 
 @Data
