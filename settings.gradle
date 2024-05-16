@@ -1,0 +1,6 @@
+rootProject.name = 'lab'
+include 'nzim2062-desktop'
+include 'nzim2062-backend'
+include 'nzim2062-web'
+include 'nzim2062-spring'
+
