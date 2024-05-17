@@ -8,5 +8,7 @@ public class LocationOutDto {
     private String city;
     private String category;
     private String description;
+    private String openHours;
+    private String prices;
     private String googleMapsLink;
 }

@@ -4,6 +4,7 @@ import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import lombok.*;
 
+@EqualsAndHashCode(callSuper = true)
 @Data
 @ToString
 @NoArgsConstructor
@@ -19,6 +20,10 @@ public class Location extends BaseEntity {
     private String category;
     @NotNull
     private String description;
+    @NotNull
+    private String openHours;
+    @NotNull
+    private String prices;
     @NotNull
     private String googleMapsLink;
 }

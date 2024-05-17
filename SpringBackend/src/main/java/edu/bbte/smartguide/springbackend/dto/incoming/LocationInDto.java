@@ -15,5 +15,9 @@ public class LocationInDto {
     @NotNull
     private String description;
     @NotNull
+    private String openHours;
+    @NotNull
+    private String prices;
+    @NotNull
     private String googleMapsLink;
 }
